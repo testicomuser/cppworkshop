@@ -8,7 +8,7 @@
       FUNC(); \
     } while(0)
 
-const char* MSG = "Hello World++11!";
+const char* MSG = "Hello World++17!";
 
 template <typename T>
 struct incomplete; // debug only
